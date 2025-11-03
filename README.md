@@ -54,13 +54,9 @@ Here’s the high-level flow:
 
 ---
 
-## Code Structure (Inferred / Suggested)
-
-
-
 ## Dependencies
 
-Here are typical dependencies you might use (update based on your `requirements.txt`):
+Here are typical dependencies (based on `requirements.txt`):
 
 * `speechrecognition` (or equivalent for speech → text)
 * `pyttsx3`, `gTTS`, or another TTS library
